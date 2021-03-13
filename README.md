@@ -1,2 +1,4 @@
 # AI-2-ajax-xhr
-Połączenia asynchroniczne 
+2PT4 Kamil Mehring
+Połączenia asynchroniczne
+
